@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepghosh-dev&label=Profile%20Views&color=FF00FF&labelColor=000000&style=plastic" alt="Profile views counter for deepghosh-dev" />
+  <img src="https://komarev.com/ghpvc/?username=deepghosh-dev&label=Profile%20Views&color=FFA500&labelColor=000000&style=plastic" alt="Profile views counter for deepghosh-dev" />
 </p>
 
 <h1 align="center">
